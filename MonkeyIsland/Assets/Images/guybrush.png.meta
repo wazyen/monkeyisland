@@ -1,0 +1,2266 @@
+fileFormatVersion: 2
+guid: a9650e5a85656854cbcfd0a3a2bc8fa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1217491373278915207
+    second: guybrush_0
+  - first:
+      213: -5795560458820454737
+    second: guybrush_1
+  - first:
+      213: -4736948798078167262
+    second: guybrush_2
+  - first:
+      213: -8588404767630305498
+    second: guybrush_3
+  - first:
+      213: -9216819113199228611
+    second: guybrush_4
+  - first:
+      213: 4994221082938091450
+    second: guybrush_5
+  - first:
+      213: -9067864696385856405
+    second: guybrush_6
+  - first:
+      213: 1636167486047212486
+    second: guybrush_7
+  - first:
+      213: 1170143820751009700
+    second: guybrush_8
+  - first:
+      213: -6415556652660015484
+    second: guybrush_9
+  - first:
+      213: -526822919061234312
+    second: guybrush_10
+  - first:
+      213: 2559039903931828144
+    second: guybrush_11
+  - first:
+      213: -182504753973595354
+    second: guybrush_12
+  - first:
+      213: 3109498714904754578
+    second: guybrush_13
+  - first:
+      213: -5880114024197243438
+    second: guybrush_14
+  - first:
+      213: -5125380367766257883
+    second: guybrush_15
+  - first:
+      213: -7827917111921132941
+    second: guybrush_16
+  - first:
+      213: -99274765901100635
+    second: guybrush_17
+  - first:
+      213: 2802129100791205937
+    second: guybrush_18
+  - first:
+      213: 9075201117826509098
+    second: guybrush_19
+  - first:
+      213: 7728079667188469633
+    second: guybrush_20
+  - first:
+      213: 4200176343553541982
+    second: guybrush_21
+  - first:
+      213: 2278407849410823555
+    second: guybrush_22
+  - first:
+      213: -4592406731706522688
+    second: guybrush_23
+  - first:
+      213: -3126812212857218274
+    second: guybrush_24
+  - first:
+      213: 4756764588349817561
+    second: guybrush_25
+  - first:
+      213: 7832914403478724854
+    second: guybrush_26
+  - first:
+      213: -6451451177586820266
+    second: guybrush_27
+  - first:
+      213: -8488353389012704087
+    second: guybrush_28
+  - first:
+      213: -3663737570468252473
+    second: guybrush_29
+  - first:
+      213: -8726748979554145440
+    second: guybrush_30
+  - first:
+      213: 2242550206500971749
+    second: guybrush_31
+  - first:
+      213: 587087705496796128
+    second: guybrush_32
+  - first:
+      213: 2459876319606326393
+    second: guybrush_33
+  - first:
+      213: 3519620039349184283
+    second: guybrush_34
+  - first:
+      213: 581980033140783968
+    second: guybrush_35
+  - first:
+      213: -8819723417746952725
+    second: guybrush_36
+  - first:
+      213: 4188173521008847594
+    second: guybrush_37
+  - first:
+      213: -4798726086759202510
+    second: guybrush_38
+  - first:
+      213: -4050776452922797941
+    second: guybrush_39
+  - first:
+      213: 3957191673772587560
+    second: guybrush_40
+  - first:
+      213: 7423863403966095884
+    second: guybrush_41
+  - first:
+      213: -1136178088106652000
+    second: guybrush_42
+  - first:
+      213: -5129118127163245840
+    second: guybrush_43
+  - first:
+      213: 1589115298472882427
+    second: guybrush_44
+  - first:
+      213: 2778786380160397345
+    second: guybrush_45
+  - first:
+      213: 1476289618754447265
+    second: guybrush_46
+  - first:
+      213: 4551797217007713460
+    second: guybrush_47
+  - first:
+      213: -3692974098233268719
+    second: guybrush_48
+  - first:
+      213: 2684184903861286890
+    second: guybrush_49
+  - first:
+      213: 2357712842717574076
+    second: guybrush_50
+  - first:
+      213: -8081105598277521018
+    second: guybrush_51
+  - first:
+      213: 4428797196724083609
+    second: guybrush_52
+  - first:
+      213: -2443239385493426642
+    second: guybrush_53
+  - first:
+      213: -5208201681047506013
+    second: guybrush_54
+  - first:
+      213: -8974117367633553806
+    second: guybrush_55
+  - first:
+      213: -942402722097873508
+    second: guybrush_56
+  - first:
+      213: 7135391355952188025
+    second: guybrush_57
+  - first:
+      213: 8994364216888119365
+    second: guybrush_58
+  - first:
+      213: -649630573234199558
+    second: guybrush_59
+  - first:
+      213: 1152598906265082689
+    second: guybrush_60
+  - first:
+      213: 2757955201652190385
+    second: guybrush_61
+  - first:
+      213: 4249390682777766431
+    second: guybrush_62
+  - first:
+      213: 8967254490247012444
+    second: guybrush_63
+  - first:
+      213: -949220249899522145
+    second: guybrush_64
+  - first:
+      213: 1268172477586477306
+    second: guybrush_65
+  - first:
+      213: 8342982515967381331
+    second: guybrush_66
+  - first:
+      213: 8840722218187512573
+    second: guybrush_67
+  - first:
+      213: -357480651580701467
+    second: guybrush_68
+  - first:
+      213: -536492793075237887
+    second: guybrush_69
+  - first:
+      213: 564220056485034568
+    second: guybrush_70
+  - first:
+      213: 2708184365790106490
+    second: guybrush_71
+  - first:
+      213: -3930846301331414144
+    second: guybrush_72
+  - first:
+      213: 5177922282038440524
+    second: guybrush_73
+  - first:
+      213: 7205834491193811940
+    second: guybrush_74
+  - first:
+      213: -7898472344122839269
+    second: guybrush_75
+  - first:
+      213: -2289180619454251703
+    second: guybrush_76
+  - first:
+      213: 6721213000200540223
+    second: guybrush_77
+  - first:
+      213: 2433472842075222197
+    second: guybrush_78
+  - first:
+      213: -7740789487935542057
+    second: guybrush_79
+  - first:
+      213: 5992386311424119936
+    second: guybrush_80
+  - first:
+      213: 6184477974787641259
+    second: guybrush_81
+  - first:
+      213: -1901191122726215315
+    second: guybrush_82
+  - first:
+      213: -8946482836696530106
+    second: guybrush_83
+  - first:
+      213: 8966040379101115547
+    second: guybrush_84
+  - first:
+      213: 9042203353747957394
+    second: guybrush_85
+  - first:
+      213: 5489296524658434335
+    second: guybrush_86
+  - first:
+      213: 7492791274087346341
+    second: guybrush_87
+  - first:
+      213: 8566024780451743015
+    second: guybrush_88
+  - first:
+      213: -6522808082678772089
+    second: guybrush_89
+  - first:
+      213: 6465464779918325066
+    second: guybrush_90
+  - first:
+      213: -3359447895199346410
+    second: guybrush_91
+  - first:
+      213: -5529772834532758590
+    second: guybrush_0
+  - first:
+      213: 4759889324667242260
+    second: guybrush_1
+  - first:
+      213: -3711717412626271649
+    second: guybrush_2
+  - first:
+      213: -7913180610180066899
+    second: guybrush_3
+  - first:
+      213: -6274363681267759498
+    second: guybrush_4
+  - first:
+      213: -4766287312525881591
+    second: guybrush_5
+  - first:
+      213: 5583916807962655120
+    second: guybrush_6
+  - first:
+      213: -5353777015659794222
+    second: guybrush_7
+  - first:
+      213: 5026984126814993869
+    second: guybrush_8
+  - first:
+      213: -7616243665852639561
+    second: guybrush_9
+  - first:
+      213: -8942074971374258357
+    second: guybrush_10
+  - first:
+      213: 7426631836652189581
+    second: guybrush_11
+  - first:
+      213: -7265672576072367703
+    second: guybrush_12
+  - first:
+      213: 3433115296896548896
+    second: guybrush_13
+  - first:
+      213: -3924390197286402592
+    second: guybrush_14
+  - first:
+      213: 6956635371109190377
+    second: guybrush_15
+  - first:
+      213: 8887980375303366873
+    second: guybrush_16
+  - first:
+      213: -1567663786000892145
+    second: guybrush_17
+  - first:
+      213: -7065250529032128342
+    second: guybrush_18
+  - first:
+      213: -7380860867265955919
+    second: guybrush_19
+  - first:
+      213: 5559925942293530324
+    second: guybrush_20
+  - first:
+      213: -4071338809139394402
+    second: guybrush_21
+  - first:
+      213: 5324876658329105046
+    second: guybrush_22
+  - first:
+      213: -6895946668951017740
+    second: guybrush_23
+  - first:
+      213: 6207987974731930383
+    second: guybrush_24
+  - first:
+      213: 5471805756307726673
+    second: guybrush_25
+  - first:
+      213: 3641747267305473986
+    second: guybrush_26
+  - first:
+      213: -3816471521281104333
+    second: guybrush_27
+  - first:
+      213: 4190159215683537598
+    second: guybrush_28
+  - first:
+      213: -4092805460887711795
+    second: guybrush_29
+  - first:
+      213: 8881945188666784142
+    second: guybrush_30
+  - first:
+      213: -3904980649791779402
+    second: guybrush_31
+  - first:
+      213: -3792739103360644257
+    second: guybrush_32
+  - first:
+      213: -9203681662296371086
+    second: guybrush_33
+  - first:
+      213: 9103382753359500270
+    second: guybrush_34
+  - first:
+      213: 4683705066786808384
+    second: guybrush_35
+  - first:
+      213: 7637176856243976207
+    second: guybrush_36
+  - first:
+      213: 1127335600022050871
+    second: guybrush_37
+  - first:
+      213: -5271693140450264243
+    second: guybrush_38
+  - first:
+      213: 2329140088582134842
+    second: guybrush_39
+  - first:
+      213: -368574849068811452
+    second: guybrush_40
+  - first:
+      213: 6024859944259417303
+    second: guybrush_41
+  - first:
+      213: 7433435718179825042
+    second: guybrush_42
+  - first:
+      213: 1557810818335587837
+    second: guybrush_43
+  - first:
+      213: -4893793984014903836
+    second: guybrush_44
+  - first:
+      213: -1775431296857237356
+    second: guybrush_46
+  - first:
+      213: 8472198118925008145
+    second: guybrush_47
+  - first:
+      213: 989524356968908974
+    second: guybrush_48
+  - first:
+      213: -7089136286304033559
+    second: guybrush_51
+  - first:
+      213: 7579897785059848090
+    second: guybrush_53
+  - first:
+      213: -1867846856384598008
+    second: guybrush_55
+  - first:
+      213: 5281444929965856658
+    second: guybrush_57
+  - first:
+      213: 3000744120059340486
+    second: guybrush_59
+  - first:
+      213: 5887610911717462560
+    second: guybrush_61
+  - first:
+      213: 6725591167910911148
+    second: guybrush_62
+  - first:
+      213: 7275566045620967350
+    second: guybrush_63
+  - first:
+      213: 4929440398302277207
+    second: guybrush_64
+  - first:
+      213: -912452190847163775
+    second: guybrush_65
+  - first:
+      213: 5189303788773993849
+    second: guybrush_66
+  - first:
+      213: 8922830581203954862
+    second: guybrush_67
+  - first:
+      213: -6680827594393415173
+    second: guybrush_68
+  - first:
+      213: -3339741891882112593
+    second: guybrush_69
+  - first:
+      213: -4701251300075001840
+    second: guybrush_70
+  - first:
+      213: 3193659829136436645
+    second: guybrush_71
+  - first:
+      213: -5522942890511004914
+    second: guybrush_72
+  - first:
+      213: 7873639875527691650
+    second: guybrush_73
+  - first:
+      213: 4084024958520916372
+    second: guybrush_74
+  - first:
+      213: 5918238195780380451
+    second: guybrush_75
+  - first:
+      213: 7285753290478442413
+    second: guybrush_76
+  - first:
+      213: -6001229163965480649
+    second: guybrush_77
+  - first:
+      213: -8394234681190532951
+    second: guybrush_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guybrush_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe11da7ec4243b0800000000000000
+      internalID: -5529772834532758590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41707fe2f168e0240800000000000000
+      internalID: 4759889324667242260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5277c1cda45d7cc0800000000000000
+      internalID: -3711717412626271649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da155be292cbe2290800000000000000
+      internalID: -7913180610180066899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764c62997bfce8a0800000000000000
+      internalID: -6274363681267759498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f817f21febaddb0800000000000000
+      internalID: -4766287312525881591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09972f180ce0e7d40800000000000000
+      internalID: 5583916807962655120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d072f67b2093b5b0800000000000000
+      internalID: -5353777015659794222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb552ed6f63c540800000000000000
+      internalID: 5026984126814993869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d80e0dbaad4690800000000000000
+      internalID: -7616243665852639561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477350d03e57e380800000000000000
+      internalID: -8942074971374258357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b245be42b01760800000000000000
+      internalID: 7426631836652189581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 792
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1c8e889452b2b90800000000000000
+      internalID: -7265672576072367703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0208a705c20e4af20800000000000000
+      internalID: 3433115296896548896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e508ba68e3c989c0800000000000000
+      internalID: -3924390197286402592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea81ee130fea8060800000000000000
+      internalID: 6956635371109190377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8a9909f03785b70800000000000000
+      internalID: 8887980375303366873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3c2ca71a8e3ae0800000000000000
+      internalID: -1567663786000892145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa836efb31033fd90800000000000000
+      internalID: -7065250529032128342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7f70e852ae19990800000000000000
+      internalID: -7380860867265955919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d682efcf23d82d40800000000000000
+      internalID: 5559925942293530324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e980cf88ce2bf77c0800000000000000
+      internalID: -4071338809139394402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b97cbb13c5e940800000000000000
+      internalID: 5324876658329105046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e2277a0dac40a0800000000000000
+      internalID: -6895946668951017740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1bc3fb24372650800000000000000
+      internalID: 6207987974731930383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e8a03852cfeb40800000000000000
+      internalID: 5471805756307726673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 648
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70e7548d51a8230800000000000000
+      internalID: 3641747267305473986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33625a63f5b290bc0800000000000000
+      internalID: -3816471521281104333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba85233b9f662a30800000000000000
+      internalID: 4190159215683537598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf42013e1f6337c0800000000000000
+      internalID: -4092805460887711795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8939fc2712034b70800000000000000
+      internalID: 8881945188666784142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd036ad9c8bec9c0800000000000000
+      internalID: -3904980649791779402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b847a51eb7d5bc0800000000000000
+      internalID: -3792739103360644257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2705c059a44f54080800000000000000
+      internalID: -9203681662296371086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee31964e166b55e70800000000000000
+      internalID: 9103382753359500270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042668261fcdff040800000000000000
+      internalID: 4683705066786808384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b14323e3bcf960800000000000000
+      internalID: 7637176856243976207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73857fd51c915af00800000000000000
+      internalID: 1127335600022050871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3996f40f27d6b0800000000000000
+      internalID: -5271693140450264243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5f0cf194c25020800000000000000
+      internalID: 2329140088582134842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 504
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3c18a02f82eaf0800000000000000
+      internalID: -368574849068811452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ff0fb23a9c9350800000000000000
+      internalID: 6024859944259417303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952fc2d66ed82760800000000000000
+      internalID: 7433435718179825042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd37268fa47e9510800000000000000
+      internalID: 1557810818335587837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e519dacc40c51cb0800000000000000
+      internalID: -4893793984014903836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12077287d7b309620800000000000000
+      internalID: 2778786380160397345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49896b364a66c57e0800000000000000
+      internalID: -1775431296857237356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11df1413d4b439570800000000000000
+      internalID: 8472198118925008145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88ab1f82f7bbd00800000000000000
+      internalID: 989524356968908974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73e1ad2f3204520800000000000000
+      internalID: 2684184903861286890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3be88b65748b020800000000000000
+      internalID: 2357712842717574076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e424828b145e9d90800000000000000
+      internalID: -7089136286304033559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1cfce59f367d30800000000000000
+      internalID: 4428797196724083609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f234020e4313960800000000000000
+      internalID: 7579897785059848090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a332925a20c8b7b0800000000000000
+      internalID: -5208201681047506013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800bd5e2e231416e0800000000000000
+      internalID: -1867846856384598008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dbef1a7b9ebe2f0800000000000000
+      internalID: -942402722097873508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29717677e267b4940800000000000000
+      internalID: 5281444929965856658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540d910e99662dc70800000000000000
+      internalID: 8994364216888119365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6aaf9e0e8c4a920800000000000000
+      internalID: 3000744120059340486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b1f68399adeff00800000000000000
+      internalID: 1152598906265082689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02212a82eeef4b150800000000000000
+      internalID: 5887610911717462560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac95d39889165d50800000000000000
+      internalID: 6725591167910911148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7912955c008f460800000000000000
+      internalID: 7275566045620967350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e644acce3e86440800000000000000
+      internalID: 4929440398302277207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182270a11915653f0800000000000000
+      internalID: -912452190847163775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d66714d4c140840800000000000000
+      internalID: 5189303788773993849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac67af632344db70800000000000000
+      internalID: 8922830581203954862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf19d8e03bee843a0800000000000000
+      internalID: -6680827594393415173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa920eca17ad6a1d0800000000000000
+      internalID: -3339741891882112593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018af23d9dcc1ceb0800000000000000
+      internalID: -4701251300075001840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adac11a1b8225c20800000000000000
+      internalID: 3193659829136436645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8250f3b09a53b0800000000000000
+      internalID: -5522942890511004914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 72
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dcd2e10c9c44d60800000000000000
+      internalID: 7873639875527691650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f77acf0f5da830800000000000000
+      internalID: 4084024958520916372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32763ab684ec12250800000000000000
+      internalID: 5918238195780380451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7d91024023c1560800000000000000
+      internalID: 7285753290478442413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318f1a0fd957bca0800000000000000
+      internalID: -6001229163965480649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guybrush_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8bf523800b18b80800000000000000
+      internalID: -8394234681190532951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
